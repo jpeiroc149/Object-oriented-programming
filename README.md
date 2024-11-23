@@ -1,0 +1,3 @@
+La Programación Orientada a Objetos es uno de los pilares fundamentales de la ingeniería de software, proporcionando un enfoque estructurado para modelar sistemas complejos. Este paradigma se basa en conceptos como clases, objetos, herencia, encapsulamiento y polimorfismo, que permiten representar y manipular entidades del mundo real en el código.
+
+En este documento, se presenta una guía práctica que combina teoría y ejercicios aplicados para comprender y dominar los principios básicos de la POO. Está dirigido tanto a principiantes que desean iniciarse en el paradigma como a desarrolladores que buscan reforzar sus habilidades.
